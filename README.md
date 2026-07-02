@@ -22,6 +22,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -57,5 +58,6 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
