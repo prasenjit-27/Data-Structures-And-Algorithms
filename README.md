@@ -22,6 +22,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -70,4 +71,12 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
