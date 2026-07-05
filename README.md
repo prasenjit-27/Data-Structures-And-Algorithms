@@ -23,6 +23,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -82,6 +83,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
@@ -91,4 +93,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
