@@ -24,6 +24,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -35,6 +36,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +52,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 ## Queue
@@ -105,6 +108,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
