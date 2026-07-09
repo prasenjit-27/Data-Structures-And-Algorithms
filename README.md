@@ -31,6 +31,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -92,6 +93,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -139,4 +141,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
