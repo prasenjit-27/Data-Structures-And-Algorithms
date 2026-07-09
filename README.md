@@ -34,6 +34,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -90,6 +92,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +117,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
