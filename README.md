@@ -38,6 +38,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0162-find-peak-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Stack
 |  |
 | ------- |
