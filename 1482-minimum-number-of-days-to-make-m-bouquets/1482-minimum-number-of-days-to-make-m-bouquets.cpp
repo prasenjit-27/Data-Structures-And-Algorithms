@@ -21,11 +21,11 @@ public:
 
                 m--;
                 count = 0;
+                if (m == 0)
+                    return true;
             }
 
 
-            if (m == 0)
-                return true;
         }
 
         return false;
