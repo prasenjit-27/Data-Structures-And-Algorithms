@@ -66,6 +66,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
