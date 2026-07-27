@@ -97,6 +97,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -188,4 +189,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
