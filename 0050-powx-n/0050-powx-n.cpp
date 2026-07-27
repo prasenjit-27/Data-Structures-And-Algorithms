@@ -1,13 +1,18 @@
 class Solution {
 public:
+    double power(double x, long long exp, double ans) {
+
+        if (exp <= 0)
+            return ans;
+
+        if (exp % 2 != 0)
+            ans *= x;
+
+        return power(x * x, exp / 2, ans);
+    }
+
     double myPow(double x, int n) {
 
-        if (n == 1)
-            return x;
-        if (n == 0)
-            return 1;
-
-        double ans = 1;
         long long exp = n;
 
         if (n < 0) {
@@ -16,16 +21,6 @@ public:
             exp = -exp;
         }
 
-        while (exp > 0) {
-
-            if (exp % 2 != 0)
-                ans *= x;
-
-            x *= x;
-
-            exp /= 2;
-        }
-
-        return ans;
+        return power(x, exp, 1);
     }
 };
