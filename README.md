@@ -35,6 +35,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -170,6 +171,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
