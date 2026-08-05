@@ -207,4 +207,20 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
