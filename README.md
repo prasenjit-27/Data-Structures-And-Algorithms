@@ -39,6 +39,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -189,6 +190,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
 | ------- |
@@ -237,4 +239,5 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
