@@ -39,6 +39,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -120,6 +121,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0844-backspace-string-compare) |
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Two Pointers
@@ -193,6 +195,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0844-backspace-string-compare) |
 ## Number Theory
