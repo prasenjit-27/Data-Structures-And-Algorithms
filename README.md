@@ -115,6 +115,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1837-sum-of-digits-in-base-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1837-sum-of-digits-in-base-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
