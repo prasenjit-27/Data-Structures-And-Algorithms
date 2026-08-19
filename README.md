@@ -48,6 +48,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -68,6 +69,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +161,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +231,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
