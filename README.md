@@ -136,6 +136,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
@@ -244,6 +245,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Tree
