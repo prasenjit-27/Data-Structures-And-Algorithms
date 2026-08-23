@@ -155,6 +155,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
@@ -191,6 +192,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0005-longest-palindromic-substring](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
+| [0516-longest-palindromic-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
