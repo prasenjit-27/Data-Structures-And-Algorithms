@@ -68,6 +68,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
@@ -147,6 +148,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
@@ -159,6 +161,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -173,6 +176,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
