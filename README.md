@@ -59,6 +59,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
@@ -269,6 +270,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
