@@ -40,6 +40,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
@@ -142,6 +143,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
 ## Simulation
 |  |
 | ------- |
@@ -310,12 +312,14 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
 ## Binary Tree
 |  |
 | ------- |
