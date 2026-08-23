@@ -160,6 +160,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0844-backspace-string-compare](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1544-make-the-string-great) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -187,6 +188,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -295,4 +297,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
