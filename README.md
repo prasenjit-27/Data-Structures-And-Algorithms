@@ -39,6 +39,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
@@ -113,6 +115,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
