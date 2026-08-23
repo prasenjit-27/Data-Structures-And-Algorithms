@@ -165,6 +165,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -192,6 +193,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0198-house-robber](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,6 +247,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Recursion
 |  |
 | ------- |
@@ -308,4 +311,12 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
+## Backtracking
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
