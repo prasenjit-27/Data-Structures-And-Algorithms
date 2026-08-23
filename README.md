@@ -118,6 +118,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1837-sum-of-digits-in-base-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1837-sum-of-digits-in-base-k) |
+| [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -163,6 +164,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1143-longest-common-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1544-make-the-string-great) |
+| [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -171,6 +173,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -301,4 +304,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1143-longest-common-subsequence) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
