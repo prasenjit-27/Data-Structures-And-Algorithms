@@ -269,12 +269,14 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +288,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -321,4 +324,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
