@@ -80,6 +80,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
@@ -205,6 +206,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
+| [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -440,6 +442,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Longest Increasing Subsequence
 |  |
@@ -465,4 +468,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
