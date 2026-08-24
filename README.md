@@ -30,6 +30,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
@@ -259,6 +261,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -340,6 +343,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -365,6 +369,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Monotonic Stack
 |  |
