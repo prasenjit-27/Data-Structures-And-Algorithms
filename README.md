@@ -29,6 +29,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -245,6 +246,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
@@ -484,4 +486,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
