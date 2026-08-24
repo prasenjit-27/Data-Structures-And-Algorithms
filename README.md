@@ -23,6 +23,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -164,6 +165,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
