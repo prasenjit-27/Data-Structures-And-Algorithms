@@ -334,6 +334,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0021-merge-two-sorted-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
@@ -346,6 +347,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
@@ -353,6 +355,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -364,6 +367,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0100-same-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
@@ -374,6 +378,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0101-symmetric-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Monotonic Stack
