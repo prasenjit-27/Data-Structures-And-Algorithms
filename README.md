@@ -43,6 +43,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -145,6 +146,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -171,6 +173,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
 ## Simulation
@@ -480,4 +483,5 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
