@@ -96,6 +96,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0904-fruit-into-baskets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
@@ -337,6 +338,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
