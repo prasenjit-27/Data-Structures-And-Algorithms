@@ -26,6 +26,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0027-remove-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
@@ -157,6 +159,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
