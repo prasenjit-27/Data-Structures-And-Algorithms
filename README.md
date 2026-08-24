@@ -40,6 +40,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0289-game-of-life](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -75,6 +76,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -293,6 +295,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -394,4 +397,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
