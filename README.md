@@ -206,6 +206,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -356,6 +357,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Tree
 |  |
