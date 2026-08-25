@@ -81,6 +81,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
@@ -197,6 +198,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
@@ -352,6 +354,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0025-reverse-nodes-in-k-group](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -451,6 +454,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 ## Ordered Set
 |  |
