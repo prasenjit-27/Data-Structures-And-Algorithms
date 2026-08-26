@@ -49,6 +49,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0377-combination-sum-iv](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0454-4sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -95,6 +96,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0454-4sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0525-contiguous-array) |
