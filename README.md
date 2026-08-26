@@ -83,6 +83,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
@@ -356,6 +357,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0206-reverse-linked-list) |
@@ -494,10 +496,15 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
