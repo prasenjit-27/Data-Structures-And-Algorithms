@@ -14,15 +14,17 @@ public:
 
         ListNode* prev = nullptr;
         ListNode* curr = head;
+        
 
         while(curr != nullptr){
 
-            ListNode* nextNode = curr -> next;
+            ListNode* next = curr -> next;
 
             curr -> next = prev;
-            
             prev = curr;
-            curr = nextNode;
+            curr = next;
+
+
         }
 
         return prev;
