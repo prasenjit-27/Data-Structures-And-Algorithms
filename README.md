@@ -218,6 +218,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -335,6 +336,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1544-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
@@ -383,6 +385,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0355-design-twitter](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
