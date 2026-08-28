@@ -165,6 +165,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
@@ -358,6 +359,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
@@ -367,6 +369,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
