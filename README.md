@@ -75,6 +75,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -273,6 +274,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0658-find-k-closest-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0767-reorganize-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -455,6 +457,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Longest Common Subsequence
 |  |
 | ------- |
