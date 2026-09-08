@@ -416,6 +416,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -429,6 +430,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
+| [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -451,6 +453,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -555,4 +558,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
