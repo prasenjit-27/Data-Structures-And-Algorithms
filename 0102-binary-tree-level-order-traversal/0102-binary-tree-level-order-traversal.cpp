@@ -11,35 +11,42 @@
  */
 class Solution {
 public:
-
-    void dfs(TreeNode* root, int level, vector<vector<int>> & ans){
-
-
-        if(root == nullptr) return;
-
-        if(level == ans.size()){
-
-            ans.push_back({});
-        }
-
-        ans[level].push_back(root -> val);
-
-        dfs(root -> left, level + 1, ans);
-        dfs(root -> right, level + 1, ans);
-    }
-
-
-
-
     vector<vector<int>> levelOrder(TreeNode* root) {
 
-        vector<vector<int>> ans;
+        vector<vector<int>>ans;
 
-        dfs(root, 0, ans);
+        if(root == nullptr) return ans;
+
+        queue<TreeNode*> q;
+
+        q.push(root);
+
+        while(!q.empty()){
+
+            int size = q.size();
+            vector<int> temp;
+
+            while(size--){
+
+                TreeNode* curr = q.front();
+                q.pop();
+
+                temp.push_back(curr -> val);
+
+                if(curr -> left) q.push(curr -> left);
+                if(curr -> right) q.push(curr -> right);
+
+
+            }
+
+            ans.push_back(temp);
+        }
 
         return ans;
 
 
+
+        
         
     }
 };
