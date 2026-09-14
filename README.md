@@ -416,6 +416,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -429,6 +430,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
@@ -447,6 +449,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0102-binary-tree-level-order-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0207-course-schedule) |
@@ -463,6 +466,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
