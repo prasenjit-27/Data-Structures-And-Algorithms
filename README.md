@@ -420,6 +420,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -437,6 +438,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -465,6 +467,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -573,4 +576,12 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
