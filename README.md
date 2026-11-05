@@ -51,6 +51,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
@@ -208,6 +209,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -262,6 +264,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -554,6 +557,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
 |  |
@@ -578,6 +582,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Longest Increasing Subsequence
 |  |
