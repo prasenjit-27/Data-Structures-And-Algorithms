@@ -30,6 +30,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
@@ -517,6 +518,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0113-path-sum-ii) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
@@ -602,6 +604,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
