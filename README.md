@@ -54,6 +54,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0213-house-robber-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
@@ -159,6 +160,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0355-design-twitter) |
@@ -299,6 +301,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0148-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -335,6 +338,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -567,6 +571,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Trie
 |  |
@@ -660,4 +665,16 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
