@@ -105,6 +105,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [4054-count-shadow-pairs-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4062-transform-array-using-pair-operations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4062-transform-array-using-pair-operations) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +168,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Queue
 |  |
 | ------- |
