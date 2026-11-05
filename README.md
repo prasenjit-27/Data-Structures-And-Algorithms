@@ -26,6 +26,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0027-remove-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
@@ -84,6 +85,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
