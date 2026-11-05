@@ -33,6 +33,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -199,6 +200,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
@@ -240,6 +242,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
