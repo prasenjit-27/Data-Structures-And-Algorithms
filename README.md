@@ -43,6 +43,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0135-candy](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
@@ -101,6 +102,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0141-linked-list-cycle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
@@ -184,6 +186,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -640,4 +643,16 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
