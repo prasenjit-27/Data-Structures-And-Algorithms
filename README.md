@@ -91,6 +91,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -144,6 +145,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0974-subarray-sums-divisible-by-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -313,6 +315,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 ## Sorting
