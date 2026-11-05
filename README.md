@@ -100,6 +100,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0992-subarrays-with-k-different-integers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1386-cinema-seat-allocation](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1386-cinema-seat-allocation) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Sliding Window
 |  |
 | ------- |
