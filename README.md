@@ -104,6 +104,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4062-transform-array-using-pair-operations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -729,4 +730,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
