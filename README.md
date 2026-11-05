@@ -56,6 +56,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
@@ -135,6 +136,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -305,6 +307,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -346,6 +349,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -576,6 +580,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Trie
 |  |
