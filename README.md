@@ -102,6 +102,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4054-count-shadow-pairs-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -415,6 +416,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1544-make-the-string-great](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [4054-count-shadow-pairs-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -551,6 +553,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [4054-count-shadow-pairs-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4054-count-shadow-pairs-i) |
 ## Manacher
 |  |
 | ------- |
