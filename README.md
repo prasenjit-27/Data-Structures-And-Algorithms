@@ -40,6 +40,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -274,6 +275,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0767-reorganize-string) |
