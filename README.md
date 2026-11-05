@@ -66,6 +66,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0312-burst-balloons](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0321-create-maximum-number) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -352,6 +353,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0215-kth-largest-element-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -374,6 +376,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0162-find-peak-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 | [0658-find-k-closest-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0875-koko-eating-bananas) |
@@ -592,6 +595,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Trie
 |  |
@@ -646,6 +650,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0148-sort-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -692,11 +697,13 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
@@ -705,4 +712,5 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
