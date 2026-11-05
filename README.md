@@ -101,6 +101,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Hash Table
 |  |
 | ------- |
@@ -392,6 +393,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Stack
 |  |
 | ------- |
