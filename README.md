@@ -103,6 +103,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4054-count-shadow-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -332,6 +333,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1552-magnetic-force-between-two-balls](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2974-minimum-number-game) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +397,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1552-magnetic-force-between-two-balls](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Stack
 |  |
 | ------- |
