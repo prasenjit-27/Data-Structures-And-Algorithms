@@ -65,6 +65,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0304-range-sum-query-2d-immutable](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -248,6 +249,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0321-create-maximum-number) |
 | [0567-permutation-in-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
@@ -292,6 +294,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0135-candy](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0321-create-maximum-number) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0767-reorganize-string) |
@@ -386,6 +389,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
@@ -529,6 +533,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
