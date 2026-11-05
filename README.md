@@ -25,6 +25,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0004-median-of-two-sorted-arrays](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
@@ -82,6 +83,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
@@ -181,6 +183,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
@@ -510,6 +513,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0113-path-sum-ii) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -592,4 +596,12 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
