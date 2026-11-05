@@ -35,6 +35,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0137-single-number-ii) |
@@ -344,6 +345,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -487,6 +489,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0739-daily-temperatures) |
@@ -612,4 +615,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
