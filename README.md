@@ -42,6 +42,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0055-jump-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -236,6 +237,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0174-dungeon-game) |
@@ -250,6 +252,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0043-multiply-strings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0682-baseball-game) |
