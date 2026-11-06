@@ -41,6 +41,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
