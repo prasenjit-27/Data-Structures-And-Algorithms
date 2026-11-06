@@ -309,6 +309,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
@@ -380,6 +381,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
