@@ -289,6 +289,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
