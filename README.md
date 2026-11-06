@@ -27,6 +27,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0018-4sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
@@ -112,6 +113,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0012-integer-to-roman](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
@@ -223,6 +225,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
