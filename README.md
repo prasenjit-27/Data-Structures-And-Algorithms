@@ -43,6 +43,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -238,6 +239,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0174-dungeon-game) |
@@ -373,6 +375,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0045-jump-game-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
