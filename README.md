@@ -213,6 +213,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0002-add-two-numbers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
@@ -243,6 +244,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0289-game-of-life) |
@@ -292,6 +294,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
