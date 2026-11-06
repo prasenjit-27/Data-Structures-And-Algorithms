@@ -110,6 +110,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
@@ -207,6 +208,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0002-add-two-numbers](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
@@ -280,6 +282,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0005-longest-palindromic-substring](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
