@@ -308,6 +308,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0043-multiply-strings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0071-simplify-path) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
@@ -441,6 +442,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0143-reorder-list) |
