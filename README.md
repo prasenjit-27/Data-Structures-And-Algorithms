@@ -32,6 +32,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0039-combination-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
@@ -323,6 +324,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0321-create-maximum-number) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0680-valid-palindrome-ii) |
@@ -360,6 +362,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
