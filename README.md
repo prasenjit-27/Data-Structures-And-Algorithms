@@ -34,6 +34,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
@@ -339,6 +340,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0016-3sum-closest](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -613,6 +615,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0039-combination-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
