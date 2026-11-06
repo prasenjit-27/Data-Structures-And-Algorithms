@@ -29,6 +29,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0035-search-insert-position](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
@@ -602,6 +603,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0113-path-sum-ii) |
