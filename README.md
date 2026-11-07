@@ -84,6 +84,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0377-combination-sum-iv](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0503-next-greater-element-ii) |
@@ -229,6 +230,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0149-max-points-on-a-line](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1837-sum-of-digits-in-base-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1837-sum-of-digits-in-base-k) |
