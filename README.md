@@ -46,6 +46,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0063-unique-paths-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
@@ -126,6 +127,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0037-sudoku-solver](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0140-word-break-ii) |
@@ -242,6 +244,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0059-spiral-matrix-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0174-dungeon-game) |
