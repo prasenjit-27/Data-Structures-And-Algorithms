@@ -234,6 +234,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [1837-sum-of-digits-in-base-k](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1837-sum-of-digits-in-base-k) |
 | [1927-sum-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/1927-sum-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Matrix
 |  |
 | ------- |
@@ -336,6 +337,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Greedy
 |  |
 | ------- |
@@ -782,4 +784,8 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4062-transform-array-using-pair-operations) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
