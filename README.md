@@ -310,6 +310,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0049-group-anagrams) |
@@ -383,6 +384,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0062-unique-paths) |
@@ -451,6 +453,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
@@ -616,6 +619,7 @@ The repository is continuously updated as I solve new problems. Problem lists an
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/prasenjit-27/Data-Structures-And-Algorithms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Union-Find
 |  |
